@@ -1,3 +1,8 @@
+/* Nome do Programador: Henrique Rufino
+ * Data da Elaboração: 04/08/2017
+ * Objetivo:Receba 3 valores obrigatoriamente em ordem crescente e um 4º valor não necessariamente em ordem. Mostre os 4 números em ordem crescente. 
+ */
+
 package Modularizado;
 
 import javax.swing.JOptionPane;
